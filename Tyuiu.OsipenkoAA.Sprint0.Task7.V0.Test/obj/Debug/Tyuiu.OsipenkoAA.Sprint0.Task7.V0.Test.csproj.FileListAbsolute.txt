@@ -1,0 +1,17 @@
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test.pdb
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Lib.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Lib.pdb
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\obj\Debug\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\obj\Debug\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\obj\Debug\Tyuiu.Os.AFF2BE9B.Up2Date
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\obj\Debug\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint0\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test\obj\Debug\Tyuiu.OsipenkoAA.Sprint0.Task7.V0.Test.pdb
