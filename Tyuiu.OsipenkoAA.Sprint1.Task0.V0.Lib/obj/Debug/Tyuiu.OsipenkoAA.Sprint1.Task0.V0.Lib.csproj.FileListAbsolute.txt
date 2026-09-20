@@ -1,0 +1,8 @@
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib\bin\Debug\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib\bin\Debug\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib.pdb
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib\obj\Debug\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib\obj\Debug\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib\obj\Debug\Tyuiu.Os.52197026.Up2Date
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib\obj\Debug\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib\obj\Debug\Tyuiu.OsipenkoAA.Sprint1.Task0.V0.Lib.pdb
