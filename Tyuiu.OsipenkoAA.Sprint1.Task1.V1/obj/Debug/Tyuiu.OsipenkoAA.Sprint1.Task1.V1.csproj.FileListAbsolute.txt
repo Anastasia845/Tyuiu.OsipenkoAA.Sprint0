@@ -1,0 +1,11 @@
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task1.V1\bin\Debug\Tyuiu.OsipenkoAA.Sprint1.Task1.V1.exe.config
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task1.V1\bin\Debug\Tyuiu.OsipenkoAA.Sprint1.Task1.V1.exe
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task1.V1\bin\Debug\Tyuiu.OsipenkoAA.Sprint1.Task1.V1.pdb
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task1.V1\bin\Debug\Tyuiu.OsipenkoAA.Sprint1.Task1.V1.Lib.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task1.V1\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task1.V1\bin\Debug\Tyuiu.OsipenkoAA.Sprint1.Task1.V1.Lib.pdb
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task1.V1\obj\Debug\Tyuiu.OsipenkoAA.Sprint1.Task1.V1.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task1.V1\obj\Debug\Tyuiu.OsipenkoAA.Sprint1.Task1.V1.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task1.V1\obj\Debug\Tyuiu.Os.E27360A8.Up2Date
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task1.V1\obj\Debug\Tyuiu.OsipenkoAA.Sprint1.Task1.V1.exe
+C:\Users\Home\source\repos\Tyuiu.OsipenkoAA.Sprint1\Tyuiu.OsipenkoAA.Sprint1.Task1.V1\obj\Debug\Tyuiu.OsipenkoAA.Sprint1.Task1.V1.pdb
